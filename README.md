@@ -5,7 +5,9 @@
 🚀 Cloud | DevOps | SRE | Platform Engineer  
 🇧🇷 Based in Florianópolis, Brazil  
 🔧 Cloud | Kubernetes | GitOps | Observability | AI for Cloud Native  
-🧠 Founder of [YROS Cloud](https://yros.cloud)
+🧠 Founder of [YROS Cloud](https://www.yros.cloud)
+📄 [View my PR Style Curriculum ](https://yrosaguiar.github.io/portfolio/)
+
 
 ---
 
@@ -76,7 +78,8 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yros-aguiar-6a893b32/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yrosaguiar)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@yrosaguiar)
-[<img alt="Website" src="https://img.shields.io/badge/yros.cloud-000?style=for-the-badge&logo=cloudflare&logoColor=white" />](https://yros.cloud)
+[<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/yrosaguiar)
+[<img alt="Website" src="https://img.shields.io/badge/yros.cloud-000?style=for-the-badge&logo=cloudflare&logoColor=white" />](https://www.yros.cloud)
 
 ---
 
